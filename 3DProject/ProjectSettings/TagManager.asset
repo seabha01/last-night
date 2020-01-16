@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ShowWhenPaused
+  - Interactable
+  - Head
+  - Bartender
+  - Drunk
+  - Pick Up
+  - DanceDance
+  - RandomPartier
+  - Wallet
+  - Ticket
+  - Sitting
+  - Bouncer
+  - RandomPartier2
+  - Angry
+  - CoatCheck
+  - NonIntoxicant
+  - Phone
+  - Jacket
+  - Intoxicant
+  - Door
+  - Advil
+  - LeftArrow
+  - RightArrow
+  - UpArrow
+  - DownArrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Interactable
+  - Test
+  - Player Notification
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

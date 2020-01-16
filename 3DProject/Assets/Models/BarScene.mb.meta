@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 6159c43fa071b42dfbd0af0fb3bc14b6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube5
+    100004: pPlane4
+    100006: polySurface1
+    100008: polySurface2
+    100010: transform1
+    100012: pCube10
+    100014: pCube6
+    100016: pCube7
+    100018: pCube8
+    100020: pCube9
+    100022: Person_For_Scale
+    100024: transform2
+    100026: pCube11
+    100028: BarShelves
+    100030: BarTop
+    100032: Ground1
+    100034: Railing
+    100036: Wall
+    100038: Booths
+    100040: Door
+    100042: Exit_Sign
+    100044: Table1
+    100046: Table2
+    100048: Table3
+    100050: Table4
+    100052: Table5
+    100054: Wall 1
+    100056: Tables
+    100058: Wall1
+    400000: //RootNode
+    400002: pCube5
+    400004: pPlane4
+    400006: polySurface1
+    400008: polySurface2
+    400010: transform1
+    400012: pCube10
+    400014: pCube6
+    400016: pCube7
+    400018: pCube8
+    400020: pCube9
+    400022: Person_For_Scale
+    400024: transform2
+    400026: pCube11
+    400028: BarShelves
+    400030: BarTop
+    400032: Ground1
+    400034: Railing
+    400036: Wall
+    400038: Booths
+    400040: Door
+    400042: Exit_Sign
+    400044: Table1
+    400046: Table2
+    400048: Table3
+    400050: Table4
+    400052: Table5
+    400054: Wall 1
+    400056: Tables
+    400058: Wall1
+    2100000: lambert1
+    2100002: LowResModelTest_handExport_initialShadingGroup1
+    2100004: lambert3
+    2300000: pCube5
+    2300002: pPlane4
+    2300004: polySurface1
+    2300006: polySurface2
+    2300008: pCube10
+    2300010: pCube6
+    2300012: pCube9
+    2300014: Person_For_Scale
+    2300016: pCube11
+    2300018: BarShelves
+    2300020: BarTop
+    2300022: Ground1
+    2300024: Railing
+    2300026: Wall
+    2300028: Booths
+    2300030: Door
+    2300032: Exit_Sign
+    2300034: Table1
+    2300036: Table2
+    2300038: Table3
+    2300040: Table4
+    2300042: Table5
+    2300044: Wall 1
+    2300046: Tables
+    2300048: Wall1
+    3300000: pCube5
+    3300002: pPlane4
+    3300004: polySurface1
+    3300006: polySurface2
+    3300008: pCube10
+    3300010: pCube6
+    3300012: pCube9
+    3300014: Person_For_Scale
+    3300016: pCube11
+    3300018: BarShelves
+    3300020: BarTop
+    3300022: Ground1
+    3300024: Railing
+    3300026: Wall
+    3300028: Booths
+    3300030: Door
+    3300032: Exit_Sign
+    3300034: Table1
+    3300036: Table2
+    3300038: Table3
+    3300040: Table4
+    3300042: Table5
+    3300044: Wall 1
+    3300046: Tables
+    3300048: Wall1
+    4300000: pCube5
+    4300002: pPlane4
+    4300004: polySurface1
+    4300006: polySurface2
+    4300008: Person_For_Scale
+    4300010: pCube6
+    4300012: pCube9
+    4300014: pCube10
+    4300016: pCube11
+    4300018: Railing
+    4300020: Ground1
+    4300022: Wall
+    4300024: BarTop
+    4300026: BarShelves
+    4300028: Booths
+    4300030: Door
+    4300032: Exit_Sign
+    4300034: Table1
+    4300036: Table2
+    4300038: Table3
+    4300040: Table4
+    4300042: Table5
+    4300044: Wall
+    4300046: Wall1
+    4300048: Tables
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
