@@ -3,7 +3,8 @@
 
 Explore the club from a first-person perspective.
 Player wakes up in a bar with no idea what happened the night before, 
-or where his/her belongings might be. The player must fumble around the bar in a state of mild intoxication to collect 
+or where his/her belongings might be.
+The player must fumble around the bar in a state of mild intoxication to collect 
 all of his/her lost items (phone, jacket ticket, jacket, and wallet) in order to leave the bar. 
 
 With particular deference to making the gameplay experience humorous and lighthearted, we included notes of humor with 
